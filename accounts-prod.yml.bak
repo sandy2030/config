@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MyBank accounts related PROD APIs"
   contactDetails:
     name: "Iera - Solution Architect Grade 2"
-    email: "{cipher}7ee2bed1d1f65c1d4a37644ed300121cc7ced49ae2075c02ec3583ae7653a44e"
+    email: "7ee2bed1d1f65c1d4a37644ed300121cc7ced49ae2075c02ec3583ae7653a44e"
   onCallSupport:
     - (022) 5223-7855
     - (022) 5224-9876

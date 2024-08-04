@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MyBank accounts related prod123 APIs"
+  message: "Welcome to MyBank accounts related docker APIs"
   contactDetails:
     name: "Iera - Solution Architect Grade 2"
     email: "{cipher}7ee2bed1d1f65c1d4a37644ed300121cc7ced49ae2075c02ec3583ae7653a44e"

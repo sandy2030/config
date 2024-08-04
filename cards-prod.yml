@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to MyBank cards related to prod env APIs"
+  message: "Welcome to MyBank cards related to docker env APIs"
   contactDetails:
     name: "Adi"
     email: "adi@gmail.com"
